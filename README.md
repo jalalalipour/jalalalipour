@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1> Ali Hejazizo </h1>
+<h1> Jalal Alipour Langouri </h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjalalalipour&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jalal-alipour-langouri/)
@@ -24,8 +24,7 @@
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalalalipour&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jalalalipour&" alt="jalalalipour" />
-</div>
+<img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jalalalipour&" alt="jalalalipour" /></div>
 
 
 
