@@ -20,6 +20,7 @@
 
 - 💻 ------------------------------
 - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
+- 🔭 I’m currently working on my **Python Course**
 - 🌱  I’m currently learning Python
 - 📫 How to reach me: jalalalipourlangouri@gmail.com
 
