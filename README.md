@@ -15,11 +15,11 @@
 <a href="https://github.com/jalalalipour"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 
 
-- 💻 ------------------------------
+- 💻 I’m currently Study Software Engineering
 - 🔭 I’m currently working on my **Python Project**
-- 🌱  I’m currently learning **Vision** & **Robotic**
+- 🌱 I’m currently learning **Vision** & **Robotic**
 - 🎨 I'm a self-taught Frontend Developer
-- 
+- ⚡ I am an only child but my computer has always been my brother 
 - 📫 How to reach me: jalalalipourlangouri@gmail.com
 <div>
 
