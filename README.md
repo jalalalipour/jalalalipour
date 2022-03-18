@@ -9,12 +9,12 @@
 <a href="https://github.com/jalalalipour"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 
 
-💻 I’m currently Study Software Engineering
-🔭 I’m currently working on my **Python Project**
-🌱 I’m currently learning **Vision** & **Robotic**
-🎨 I'm a self-taught Frontend Developer
-⚡ I'm an only-child but my computer has always been with me 
-📫 How to reach me: jalalalipourlangouri@gmail.com
+- 💻 I’m currently Study Software Engineering
+- 🔭 I’m currently working on my **Python Project**
+- 🌱 I’m currently learning **Vision** & **Robotic**
+- 🎨 I'm a self-taught Frontend Developer
+- ⚡ I'm an only-child but my computer has always been with me 
+- 📫 How to reach me: jalalalipourlangouri@gmail.com
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
