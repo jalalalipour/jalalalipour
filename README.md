@@ -1,4 +1,4 @@
-### Hi I'm JALAL 👋
+
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-<h1> Jalal Alipour Langouri </h1>
+#Hi I'm <h1> Jalal Alipour Langouri 👋</h1>
 
 <a href="mailto:jalalalipourlangouri@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 <a href="https://linkedin.com/in/jalal-alipour-langouri"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
