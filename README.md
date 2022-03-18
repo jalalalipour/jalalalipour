@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on my **Python Project**
 - 🌱 I’m currently learning **Vision** & **Robotic**
 - 🎨 I'm a self-taught Frontend Developer
-- ⚡ I have biiig plan for my future  
+<!-- - ⚡ I have biiig plan for my future  
 - 📫 How to reach me: jalalalipourlangouri@gmail.com
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
