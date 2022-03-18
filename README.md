@@ -15,7 +15,7 @@
 <a href="https://github.com/jalalalipour"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 
 
-- 💻 I’m currently Study Software Engineering
+-- 💻 I’m currently Study Software Engineering
 - 🔭 I’m currently working on my **Python Project**
 - 🌱 I’m currently learning **Vision** & **Robotic**
 - 🎨 I'm a self-taught Frontend Developer
