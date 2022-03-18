@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on my **Python Project**
 - 🌱 I’m currently learning **Vision** & **Robotic**
 - 🎨 I'm a self-taught Frontend Developer
-- ⚡ I'm an only child but my computer has always been my brother 
+- ⚡ I'm an only-child but my computer has always been with me 
 - 📫 How to reach me: jalalalipourlangouri@gmail.com
 <div>
 
