@@ -7,7 +7,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jalal-alipour-langouri/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](jalalalipourlangouri@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/jalalalipourlangouri/)](https://www.instagram.com/jalalalipourlangouri)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/jalalalipour)
 [![Github](https://img.shields.io/github/followers/jalalalipour?label=Follow&style=social)](https://github.com/jalalalipour)
 <img src="https://komarev.com/ghpvc/?username=jalalalipour" alt="jalalalipour" />
 
@@ -21,6 +20,11 @@
 
  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jalalalipour&" alt="jalalalipour" />
 </div>
+
+
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 
