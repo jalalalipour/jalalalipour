@@ -68,9 +68,6 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{jalalalipour}/count.svg" alt="jalalalipour :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalalalipour&langs_count=10&theme=tokyonight&layout=compact" alt="jalalalipour :: Top Langs" /></p>
  
  
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -85,15 +82,15 @@
 	
 	
 	
-<!--
+
 <!----------------------------->
 <!-- COMMENTED FOR LATER USE -->
 <!----------------------------->
 
 	
-	
+<!--	
 I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my linkedin page.
- 
+-->
 	
 <!-- STATISTICS -->
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hejazizo&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/hejazizo)
