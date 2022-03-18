@@ -22,14 +22,15 @@
 <h1>Skills ⚡  &  Tools 🛠️</h1>
 <img align="left" width="45%"  height:auto src="https://im.ezgif.com/tmp/ezgif-1-a65cd5a37d.gif"/>
 	
-
+<Br>
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
 
 <h1></h1>
 
@@ -46,28 +47,7 @@
 	
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-	
-<h1></h1>
-<Br>	
-
-	
---------------------
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-
-	
-	
-
-	
-	
+		
 	
 	
 	
