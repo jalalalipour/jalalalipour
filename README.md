@@ -1,4 +1,4 @@
-<img align="right" width="50%" height:auto src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<img align="right" width="45%" height:auto src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 <h1> Jalal Alipour Langouri 👋</h1>
 
