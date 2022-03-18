@@ -10,7 +10,7 @@
 
 
 
- <h1><span font-size="10">Hi I'm</span> Jalal Alipour Langouri 👋</h1>
+ <div><span>Hi I'm</span><h1> Jalal Alipour Langouri 👋</h1></div>
 
 <a href="mailto:jalalalipourlangouri@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 <a href="https://linkedin.com/in/jalal-alipour-langouri"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
