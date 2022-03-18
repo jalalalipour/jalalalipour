@@ -19,6 +19,14 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<!-- STATISTICS -->		
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalalalipour&show_icons=true&locale=en&layout=compact" alt="jalalalipour" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jalalalipour&" alt="jalalalipour" />
+</div>
+	
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 <h1>Skills ⚡  &  Tools 🛠️</h1>
 <img align="left" width="45%"  height:auto src="https://im.ezgif.com/tmp/ezgif-1-a65cd5a37d.gif"/>
@@ -51,12 +59,6 @@
 	
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<!-- STATISTICS -->		
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalalalipour&show_icons=true&locale=en&layout=compact" alt="jalalalipour" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jalalalipour&" alt="jalalalipour" />
-</div>
-	
 	
   
 
