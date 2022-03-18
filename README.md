@@ -22,9 +22,9 @@
 
 
 - 💻 ------------------------------
-- 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
+- 🤔 I’m currently reading vision
 - 🔭 I’m currently working on my **Python Course**
-- 🌱  I’m currently learning Python
+- 🌱  I’m currently learning Vision & Robotic
 - 📫 How to reach me: jalalalipourlangouri@gmail.com
 - 🎨 I'm a self-taught Frontend Developer
 <div>
