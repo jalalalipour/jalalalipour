@@ -15,7 +15,8 @@
 - 📫 How to reach me: jalalalipourlangouri@gmail.com
 
 <div>
- <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalalalipour&layout=compact" alt="jalalalipour" />
+ <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalalalipour&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light" alt="jalalalipour" /></p>
+
  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jalalalipour&" alt="jalalalipour" />
 </div>
 
