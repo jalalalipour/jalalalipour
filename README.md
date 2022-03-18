@@ -17,11 +17,11 @@
 <div>
   
   
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalalalipour&show_icons=true&locale=en&layout=compact" alt="jalalalipour" />
+  <!-- <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalalalipour&show_icons=true&locale=en&layout=compact" alt="jalalalipour" />
   
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalalalipour&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalalalipour&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jalalalipour&" alt="jalalalipour" />
