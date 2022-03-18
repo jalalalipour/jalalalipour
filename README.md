@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on my **Python Course**
 - 🌱  I’m currently learning Python
 - 📫 How to reach me: jalalalipourlangouri@gmail.com
-
+- 🎨 I'm a self-taught Frontend Developer
 <div>
 
 
