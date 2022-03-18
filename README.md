@@ -7,8 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jalal-alipour-langouri/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](jalalalipourlangouri@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/jalalalipourlangouri/)](https://www.instagram.com/jalalalipourlangouri)
-[![Github](https://img.shields.io/github/followers/jalalalipour?label=Follow&style=social)](https://github.com/jalalalipour)
-<img src="https://komarev.com/ghpvc/?username=jalalalipour" alt="jalalalipour" />
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/jalalalipour)
 
 - 💻 ------------------------------
 - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
@@ -16,11 +15,10 @@
 - 📫 How to reach me: jalalalipourlangouri@gmail.com
 
 <div>
- <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalalalipour&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light" alt="jalalalipour" /></p>
+
 
  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jalalalipour&" alt="jalalalipour" />
 </div>
-
 
 
 
@@ -36,4 +34,8 @@
 [![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/rishit-dagli)
  -->
 <!--  [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi) -->
+
+
+
+ <!-- <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalalalipour&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light" alt="jalalalipour" />
 
