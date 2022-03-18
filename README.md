@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jalal-alipour-langouri/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](jalalalipourlangouri@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/jalalalipourlangouri/)](https://www.instagram.com/jalalalipourlangouri)
-[![Github](https://img.shields.io/github/followers/jalalalipour?label=Follow&style=social)](https://github.com/jalalalipour)
+[![GitHub followers](https://img.shields.io/github/followers/jalalalipour.svg?style=social&label=Followers)](https://github.com/jalalalipour?tab=followers)
 <img src="https://komarev.com/ghpvc/?username=jalalalipour" alt="jalalalipour" />
 
 - 💻 ------------------------------
