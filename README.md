@@ -23,6 +23,7 @@
 <img align="left" width="45%"  height:auto src="https://im.ezgif.com/tmp/ezgif-1-a65cd5a37d.gif"/>
 	
 <Br>
+	
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
