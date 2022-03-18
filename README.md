@@ -10,6 +10,14 @@
 [![GitHub followers](https://img.shields.io/github/followers/jalalalipour.svg?style=social&label=Followers)](https://github.com/jalalalipour?tab=followers)
 <img src="https://komarev.com/ghpvc/?username=jalalalipour" alt="jalalalipour" />
 
+<p align="center">
+<img src="https://img.shields.io/badge/Age-22-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-IRAN-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Persian-brightgreen" />
+</p>
+
+
 - 💻 ------------------------------
 - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
 - 🌱  I’m currently learning Python
