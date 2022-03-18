@@ -18,8 +18,9 @@
 - 💻 ------------------------------
 - 🔭 I’m currently working on my **Python Project**
 - 🌱  I’m currently learning **Vision** & **Robotic**
-- 📫 How to reach me: jalalalipourlangouri@gmail.com
 - 🎨 I'm a self-taught Frontend Developer
+- 
+- 📫 How to reach me: jalalalipourlangouri@gmail.com
 <div>
 
 	
