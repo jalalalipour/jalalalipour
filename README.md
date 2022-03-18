@@ -12,19 +12,12 @@
 
 <h1> Jalal Alipour Langouri </h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjalalalipour&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![GitHub followers](https://img.shields.io/github/followers/jalalalipour.svg?style=social&label=Followers)](https://github.com/jalalalipour?tab=followers)
-<img src="https://komarev.com/ghpvc/?username=jalalalipour" alt="jalalalipour" />
-
-
-
 <a href="mailto:jalalalipourlangouri@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 <a href="https://github.com/jalalalipour"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/jalal-alipour-langouri"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://instagram.com/jalalalipourlangouri"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
-<a href="https://t.me/Jalalalipourlangouri"><img src="https://img.icons8.com/bubbles/50/000000/telegram.png" alt="telegram"/></a>
+<a href="https://t.me/Jalalalipourlangouri"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="telegram"/></a>
 
 
 - 💻 ------------------------------
