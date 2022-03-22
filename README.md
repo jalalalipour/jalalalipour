@@ -62,7 +62,7 @@
 
 
 
-<h1 align="center"> Python Libraries 🐍📚 </h1>
+<h1 align="center"> 🐍 Python Libraries 📚 </h1>
 
 <img align="left" width="7%"  height:auto src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"/>
 <img align="right" width="7%"  height:auto src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"/>
