@@ -28,7 +28,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<h1>Skills ⚡  &  Tools 🛠️</h1>
+<h1 align="center" >Skills ⚡  &  Tools 🛠️</h1>
 <img align="left" width="45%"  height:auto src="https://media.giphy.com/media/BidU6tZx71DHiM9Qc8/giphy.gif"/>
 	
 <Br>
@@ -64,8 +64,8 @@
 
 <h1 align="center"> Python Libraries 🐍📚 </h1>
 
-<img align="left" width="5%"  height:auto src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"/>
-<img align="right" width="5%"  height:auto src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"/>
+<img align="left" width="7%"  height:auto src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"/>
+<img align="right" width="7%"  height:auto src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"/>
 
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)	
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
