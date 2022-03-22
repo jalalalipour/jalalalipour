@@ -61,8 +61,12 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
+	
+	
+<!--
 
-<h1 align="center"> 🐍 Python Libraries 📚 </h1>
+
+<h1> 🐍 Python Libraries 📚 </h1>
 
 <img align="left" width="7%"  height:auto src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"/>
 <img align="right" width="7%"  height:auto src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"/>
@@ -81,17 +85,12 @@
 	
 <Br>
 	
-
-	
-
-	
-	
 	
 	
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 	
 
-	
+-->	
 	
 	
 	
