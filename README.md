@@ -64,9 +64,8 @@
 
 <h1> Python Libraries 🐍📚 </h1>
 
-<div display:grid; grid-template-columns:1fr 6fr 1fr>
-
 <img align="left" width="5%"  height:auto src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"/>
+<img align="right" width="5%"  height:auto src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"/>
 
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)	
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -79,10 +78,9 @@
 ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 	
-<img align="right" width="5%"  height:auto src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"/>
 <Br>
 	
-</div>
+
 	
 
 	
