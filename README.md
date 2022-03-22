@@ -29,7 +29,7 @@
 
 
 <h1>Skills ⚡  &  Tools 🛠️</h1>
-<img align="left" width="45%"  height:auto src="https://im.ezgif.com/tmp/ezgif-1-a65cd5a37d.gif"/>
+<img align="left" width="45%"  height:auto src="https://drive.google.com/file/d/1BwNe7HGSFwkSNar8Vzgc3cXf0sPDMkkx/view?usp=sharing"/>
 	
 <Br>
 	
