@@ -115,5 +115,3 @@ I am always on the lookout for new projects to work on and new people to collabo
 <!-- <p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
 
- <!-- <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalalalipour&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light" alt="jalalalipour" />
-
