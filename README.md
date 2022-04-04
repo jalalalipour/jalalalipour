@@ -1,3 +1,14 @@
+<h1> 🙂 Jalal Alipour Langouri 👋</h1>
+👀![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjalalalipour&count_bg=%23B09E77&title_bg=%235E5137&icon=&icon_color=%23FFE100&title=View&edge_flat=false)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalalalipour&show_icons=true&locale=en&layout=compact" alt="jalalalipour" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=jalalalipour&" alt="jalalalipour" />
+</div>
+
+
+
+<!--
 <img align="right" width="46%" height:auto src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 <h1> 🙂 Jalal Alipour Langouri 👋</h1>
@@ -61,6 +72,7 @@
 	
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+-->
 	
 <!--
 
