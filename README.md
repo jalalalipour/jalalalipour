@@ -14,7 +14,7 @@
 
 - 💻 I’m currently Study Software Engineering
 - 🔭 I’m currently working on my **Python Project**
-- 🌱 I’m currently learning **Vision** & **Robotic**
+- 🌱 I’m currently learning Something Cool & Amazing 
 - 🎨 I'm a self-taught Frontend Developer
 - 📫 How to reach me: jalalalipourlangouri@gmail.com
 <!-- - ⚡ I have biiig plan for my future  -->
