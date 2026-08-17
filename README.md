@@ -1,8 +1,10 @@
 
-<!-- <img align="right" width="46%" height:auto src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/> -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<img justify:"center" align="left" width="50%"  height:auto src="https://media.giphy.com/media/BidU6tZx71DHiM9Qc8/giphy.gif"/>
 
+
+
+<img  align="right" width="46%"  height:auto src="https://media.giphy.com/media/BidU6tZx71DHiM9Qc8/giphy.gif"/>
+<!--<img  align="right" width="46%"  height:auto src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/> -->
 
 <h1> 🙂 Jalal Alipour Langouri 👋</h1>
 
@@ -23,10 +25,5 @@
 <!-- - ⚡ I have biiig plan for my future  -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<img justify:"center" align="left" width="50%"  height:auto src="https://media.giphy.com/media/BidU6tZx71DHiM9Qc8/giphy.gif"/>
-	
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 
 	
